@@ -1,0 +1,57 @@
+body {
+    /* margin: 0 auto; */
+    background-image: url("background_img.png");
+    background-position: center;
+    color:#444444;
+}
+
+.navbar-custom { 
+    background-color: #eeeeee; 
+} 
+
+.navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
+    color: #444444; 
+} 
+
+.navbar-custom .navbar-brand {
+    padding: 8px;
+    background-color: white;
+}
+
+.container {
+    background-color: white;
+    margin: 5% auto;
+    width: 100%;
+    padding: 3%;
+}
+
+h1{
+    font-family: 'Abril Fatface', cursive;
+    width: 90%;
+    margin: 5% 5% 0 5%;
+    padding-bottom: 2%;
+    border-bottom: 2px solid #eeeeee;
+}
+img {
+    margin: 5% 0 0 5%;
+}
+
+.img-attributes {
+    float: left;
+    margin: 5% 5% 0 5%;
+}
+
+p {
+    padding: 5% 5% 0 5%; 
+}
+
+footer {
+    height: 70px;
+    width: 100%;
+    background-color: #eeeeee;
+    border-top: 5px solid white;
+    text-align: center;
+    padding: 1%;
+    color: #444444;
+    
+}
