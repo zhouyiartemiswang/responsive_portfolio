@@ -22,9 +22,22 @@ img {
     margin: 5% 0 0 5%;
 }
 
-.img-attributes {
+.profile-img {
     float: left;
     margin: 5% 5% 0 5%;
+}
+
+.carousel-control-next{
+    left: 45%;
+}
+
+.carousel-indicators {
+    left: -40%;
+}
+
+#github-page {
+    color: darkslategray;
+    font-style: italic;
 }
 
 .contact-form {
