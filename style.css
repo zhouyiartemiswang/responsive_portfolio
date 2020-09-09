@@ -1,21 +1,8 @@
 body {
     background-image: url("background_img.png");
     color:#444444;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Noto Serif', serif;
 }
-
-/* .navbar-custom { 
-    background-color: #eeeeee; 
-} 
-
-.navbar-custom .navbar-brand, .navbar-custom .navbar-nav .nav-link {
-    color: #444444; 
-} 
-
-.navbar-custom .navbar-brand {
-    padding: 8px;
-    background-color: white;
-} */
 
 .container {
     background-color: white;
@@ -50,15 +37,6 @@ p {
 }
 
 .footer {
-    /* position: relative;
-    height: 70px;
-    width: 100%;
-    background-color: #eeeeee;
-    border-top: 5px solid white;
-    text-align: center;
-    padding: 1%;
-    color: #444444; */
-
     position: fixed;
     bottom: 0;
     width: 100vw;
