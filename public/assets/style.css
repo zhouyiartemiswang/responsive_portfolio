@@ -1,0 +1,62 @@
+body {
+    background-image: url("background_img.png");
+    color:#444444;
+    font-family: 'Noto Serif', serif;
+}
+
+.container {
+    background-color: white;
+    margin: 5% auto;
+    width: 100%;
+    padding: 3%;
+}
+
+h1{
+    font-family: 'Abril Fatface', cursive;
+    width: 90%;
+    margin: 5% 5% 0 5%;
+    padding-bottom: 2%;
+    border-bottom: 2px solid #eeeeee;
+}
+img {
+    margin: 5% 0 0 5%;
+}
+
+.profile-img {
+    float: left;
+    margin: 5% 5% 0 5%;
+}
+
+.carousel-control-next{
+    left: 45%;
+}
+
+.carousel-indicators {
+    left: -40%;
+}
+
+#github-page {
+    color: darkslategray;
+    font-style: italic;
+}
+
+.contact-form {
+    width: 80%;
+    padding: 5%;
+}
+
+p {
+    padding: 5% 5% 0 5%; 
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100vw;
+    height: 60px;
+    line-height: 60px;
+    background-color: #f5f5f5;
+    text-align: center;
+    color: #444444;
+    border-top: 5px solid white;
+}
