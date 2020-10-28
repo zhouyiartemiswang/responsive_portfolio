@@ -25,11 +25,14 @@ h1 {
     border-bottom: 2px solid #eeeeee;
 }
 
+#about-me {
+    width: 90%;
+    margin: 5% 5% 0 5%;
+}
+
 .card {
     margin-top: 5vh;
-    margin-left: 3vw;
-    /* margin-right: 3vw; */
-    /* margin-bottom: 5vh; */ 
+    margin-left: 3vw; 
 }
 
 .card-img-top {
@@ -42,10 +45,6 @@ h1 {
     float: left;
     margin: 5% 5% 0 5%;
 }
-
-/* .project-img {
-    size: ;                
-} */
 
 #github-page {
     color: darkslategray;
